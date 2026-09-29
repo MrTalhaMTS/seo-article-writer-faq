@@ -1,0 +1,14 @@
+{
+  "name": "mrtalhamts-plugins",
+  "owner": {
+    "name": "MrTalhaMTS"
+  },
+  "plugins": [
+    {
+      "name": "seo-article-writer-faq",
+      "source": "./",
+      "description": "Write search-optimized articles with FAQ sections, meta tags, FAQPage schema and link suggestions — and audit existing articles for SEO.",
+      "version": "1.0.0"
+    }
+  ]
+}
